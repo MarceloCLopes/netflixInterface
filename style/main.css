@@ -10,9 +10,6 @@
 }
 
 body{
-
-}
-
-header .container{
-
+  background: var(--preta);
+  font-family: 'Times New Roman', Times, serif;
 }
