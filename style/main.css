@@ -9,6 +9,7 @@
   box-sizing: border-box;
 }
 
+/* ELEMENTOS BASE */
 body{
   background: var(--preta);
   font-family: 'Times New Roman', Times, serif;
@@ -38,3 +39,5 @@ header nav a{
 header nav a:hover{
   color: #ffffff;
 }
+
+/* FILME PRINCIPAL */
